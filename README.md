@@ -35,6 +35,9 @@ A Jakarta EE 10 web application built with **JSF (Jakarta Faces) 4.0** and **Mav
 * `src/main/webapp`: Contains `index.xhtml` and `WEB-INF/web.xml`.
 * `pom.xml`: Project dependencies and build configuration.
 
+## Preview
+![Application Screenshot](./screenshots/Screenshot_25-2-2026_1655_localhost.jpeg)
+
 ## 📝 Features
 - [x] JSF 4.0 Integration
 - [x] CDI Support via Weld
