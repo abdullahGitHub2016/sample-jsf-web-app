@@ -1,0 +1,34 @@
+# --- Maven / Build Results ---
+target/
+!.mvn/wrapper/maven-wrapper.jar
+build/
+
+# --- Smart Tomcat (Crucial for your setup) ---
+# This ignores the temp server configs Smart Tomcat creates
+.SmartTomcat/
+temp/
+work/
+
+# --- IntelliJ IDEA ---
+.idea/
+*.iws
+*.iml
+*.ipr
+# If you want to share code styles/dictionaries, uncomment the next lines:
+# !.idea/codeStyles/
+# !.idea/dictionaries/
+
+# --- Eclipse / NetBeans / VS Code ---
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+/nbproject/private/
+/nbbuild/
+/dist/
+.vscode/
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
